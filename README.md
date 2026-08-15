@@ -1,4 +1,4 @@
-🚀 About Me
+💫 Hi 👋, I'm Ayasree Biswas 
 
 🔭 I’m currently working on: Python Devoloper as a Intern at Synet Technology 
 
