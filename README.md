@@ -1,6 +1,6 @@
 💫 Hi 👋, I'm Ayasree Biswas 
 
-🔭 I’m currently working on: Python Devoloper as a Intern at Synet Technology 
+🔭 B.Tech Student | Python Developer | Aspiring Software Developer | Interested in Web Development
 
 🌱 I’m currently learning: Python and PHP 
 
